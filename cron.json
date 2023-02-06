@@ -1,0 +1,9 @@
+{
+  "jobs": [
+    {
+      "command": "30 * * * * node bin/index.js",
+      "size": "M"
+    }
+  ]
+}
+
